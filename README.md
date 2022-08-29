@@ -1,5 +1,5 @@
-# Mikro1-2021
+# Mikro1
 
-Repository for [Microeconomics I](https://absalon.ku.dk/courses/51156)
+Repository for [Microeconomics I](https://absalon.ku.dk/courses/60604)
 
-**New to Python:** See [Introduction to Programming and Numerical Analysis](https://numeconcopenhagen.netlify.app/)
+**New to Python?** See [Introduction to Programming and Numerical Analysis](https://sites.google.com/view/numeconcph-introprog/home)
